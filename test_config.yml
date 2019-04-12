@@ -6,4 +6,4 @@ execution:
     script: performance_test.jmx
 reporting:
 - module: final-stats
-  dump-xml: stats.xml
+  dump-xml: result/stats.xml
